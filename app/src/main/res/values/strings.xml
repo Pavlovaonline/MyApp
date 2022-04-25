@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="textView">Анкета клиента</string>
+    <string name="textView1">Введите логин</string>
+    <string name="editText1">Email/номер телефона</string>
+    <string name="textView2">Введите пароль</string>
+    <string name="editText2">пароль</string>
+    <string name="switch1">получать информацию о выгодных предложениях</string>
+    <string name="checkBox">Согласие на обработку персональных данных</string>
+    <string name="next">Next</string>
+    <string name="textView3">Укажите дату рождения</string>
+    <string name="textView4">Введите номер телефона</string>
+    <string name="editText4">номер телефона</string>
+    <string name="textView5">ems - ширина буквы M в заданном размере английского шрифта. Для неанглийского шрифта это ширина самой широкой Буквы в этом шрифте.</string>
+</resources>
