@@ -14,7 +14,7 @@ import android.view.View;
         setContentView(R.layout.activity_main);
     }
 
-    public void newActivity(View v) {
+    public void newActivity (View v) {
         Intent intent = new Intent(this,SecondActivity.class);
         startActivity (intent);
     }

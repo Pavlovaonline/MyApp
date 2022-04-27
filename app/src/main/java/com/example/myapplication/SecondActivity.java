@@ -13,5 +13,8 @@ public class SecondActivity extends AppCompatActivity {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_second);
         }
-
+    public void newActivity(View v) {
+        Intent intent = new Intent(this,MainActivity.class);
+        startActivity (intent);
+    }
 }
